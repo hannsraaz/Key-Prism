@@ -1,0 +1,70 @@
+[
+  {
+    "effect": "Rainbow",
+    "stopped": true,
+    "error": null,
+    "writes": 10,
+    "last_rgb": [
+      255,
+      132,
+      0
+    ],
+    "last_packet": [
+      132,
+      255,
+      0,
+      240
+    ]
+  },
+  {
+    "effect": "Breathing",
+    "stopped": true,
+    "error": null,
+    "writes": 9,
+    "last_rgb": [
+      134,
+      0,
+      0
+    ],
+    "last_packet": [
+      0,
+      134,
+      0,
+      240
+    ]
+  },
+  {
+    "effect": "Music",
+    "stopped": true,
+    "error": null,
+    "writes": 9,
+    "last_rgb": [
+      23,
+      0,
+      0
+    ],
+    "last_packet": [
+      0,
+      23,
+      0,
+      240
+    ]
+  },
+  {
+    "effect": "Typing",
+    "stopped": true,
+    "error": null,
+    "writes": 5,
+    "last_rgb": [
+      255,
+      255,
+      255
+    ],
+    "last_packet": [
+      255,
+      255,
+      255,
+      240
+    ]
+  }
+]

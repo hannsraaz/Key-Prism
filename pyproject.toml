@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "acerrgb-singlezone"
+version = "0.2.0"
+description = "Single-zone Acer Aspire 7 RGB animations using the verified Insyde interface"
+requires-python = ">=3.10"
+dependencies = ["numpy>=2", "soundcard>=0.4.6", "PySide6>=6.6"]
+
+[tool.setuptools.packages.find]
+include = ["acerrgb*"]

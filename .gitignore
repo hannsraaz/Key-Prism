@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+_imported_reference/
+vendor/*.dll
+*.egg-info/

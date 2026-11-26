@@ -4,3 +4,4 @@ __pycache__/
 _imported_reference/
 vendor/*.dll
 *.egg-info/
+preview.png
